@@ -84,7 +84,7 @@ LISTADO DE COMPONENTES Y COTIZACIÓN DE PROYECTO:
 11. Cable UTP CAT 6 por metro --> $ 725,90 (COP)
 12. Multímetro digital --> $ 24000 (COP)
 13. Pinzas punta curva tipo Americano 11.5 cms --> $ 13000 (COP)
-14. cable duplex con clavija 1.5mt--> $ 4500 (COP)
+14. Cable duplex con clavija 1.5mt--> $ 4500 (COP)
 15. Chunky Perro Cachorro Pollo 4kg $40000
 16. MDF 5.5mm 1.83x2.44 Metros --> $ 6000 (COP)
 17. Plato agua --> $ 15000 (COP)
@@ -98,8 +98,8 @@ LISTADO DE COMPONENTES Y COTIZACIÓN DE PROYECTO:
 Total: 329.342 (COP)
 Software: Inventor (u Onshape), RdWorks, Cura.
 
-*nota 1: Los valores cotizados están sujetos a cambios en la moneda. Así mismo, están sujetos a cambios en las decisiones de diseño con lo que, una cotización más realista del proyecto podría resultar a partir de un primer prototipo.
-*nota 2: Los software descritos son gratuitos. En el caso de Inventor, el acceso es proporcionado por la Universidad. Como alternativa al anterior, se tiene Onshape.
-*nota 3: Herramientas: Impresora 3D Artillery Sidewinder X2 ($200 el gramo) y cortadora láser (gratis/proporcionados por la Universidad exceptuando el material)
+*Nota 1: Los valores cotizados están sujetos a cambios en la moneda. Así mismo, están sujetos a cambios en las decisiones de diseño con lo que, una cotización más realista del proyecto podría resultar a partir de un primer prototipo.
+*Nota 2: Los software descritos son gratuitos. En el caso de Inventor, el acceso es proporcionado por la Universidad. Como alternativa al anterior, se tiene Onshape.
+*Nota 3: Herramientas: Impresora 3D Artillery Sidewinder X2 ($200 el gramo) y cortadora láser (gratis/proporcionados por la Universidad exceptuando el material)
 
 
